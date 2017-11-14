@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NewKJDemo</string>
+    <string name="input_pswd">请输入密码</string>
+    <string name="ip_scl">IP查询</string>
+
+
 </resources>

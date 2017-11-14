@@ -22,7 +22,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:drawableRight="@mipmap/search_clear_normal"
-        android:hint="请输入密码"
+        android:hint="@string/input_pswd"
         android:inputType="textPassword" />
 
     <Button
